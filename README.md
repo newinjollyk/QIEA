@@ -55,3 +55,9 @@ These parameters allow you to control the structure, training strategy, and earl
 
 ---
 
+##  Results
+
+- The results are visualized using **accuracy vs. epochs** plots.
+- Detailed information about each chromosome, including its architecture and performance, is displayed in **table format** within the notebook.
+- Each chromosome's data is also saved in a **JSON file** for future analysis or reuse.
+- A **comparative study** can be performed between the best-evolved CNN and a standard CNN for the same dataset to evaluate the effectiveness of the QIEA-based search.
