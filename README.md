@@ -1,5 +1,11 @@
 ## ⚙️ Quantum Inspired Evolutionary Algorithm for Neural Architecture Search 
 
+# Quantum-Inspired Evolutionary Algorithm for Neural Architecture Search (QIEA-NAS)
+
+**QIEA-NAS** is a technique for automating the design of Convolutional Neural Networks (CNNs) using a Quantum-Inspired Evolutionary Algorithm.  
+It represents neural architectures as quantum chromosomes and evolves them through observation and rotation-based updates.  
+This approach allows for efficient and intelligent exploration of network structures with fewer resources than traditional search strategies.
+
 ## ⚙️ How It Works
 
 1. **Initialization**: A population of quantum chromosomes is created, each representing a candidate CNN architecture.  
